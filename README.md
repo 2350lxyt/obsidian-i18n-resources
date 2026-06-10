@@ -1,3 +1,1 @@
-# obsidian-i18n-resources
-
-采用deepseek-V4-Pro翻译
+本仓库用于存储一些社区上我找不到的一些插件翻译，自用。翻译均由deepseek-V4-pro生成，不含任何人工翻译成分。
